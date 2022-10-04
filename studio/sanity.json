@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "tm"
+    "name": "Tove Möller"
   },
   "api": {
-    "projectId": "lktync2w",
+      "projectId": "i4hcircn",
     "dataset": "production"
   },
   "plugins": [
